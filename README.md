@@ -11,7 +11,7 @@ There is one screen that has questions and progress bars, when you submit your a
 I really wanted to experiment with creating a mobile app. Seeing how easy it can be gives me some confidence
 to use this knowledge going forward!
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/LgWjic58yGA)
 
 ## Development Environment
 I used Android Studio and Kotlin to create my app
