@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">OneMind</string>
+    <string name="tab_text_1">Questions</string>
+    <string name="tab_text_2">Stats</string>
+
+    <!-- Questions -->
+    <string name="question_title">Questions</string>
+    <string name="question_1">Are you thinking good thoughts?</string>
+    <string name="question_2">Are you on task?</string>
+    <string name="question_3">Is your mind wandering?</string>
+    <string name="question_4">Temporary Question</string>
+
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="positive_thinking">Positive Thinking</string>
+    <string name="positive_thinking_stat">0.01</string>
+    <string name="on_task">On task</string>
+    <string name="on_task_stat">0.01</string>
+    <string name="mind_wandering">Mind wandering</string>
+    <string name="mind_wandering_stat">0.01</string>
+
+</resources>
